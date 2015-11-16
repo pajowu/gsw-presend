@@ -41,19 +41,19 @@ Note: z.B.:
 
 ### WeConnect
 Gemeinsame Aktivitäten
-![We Connect](images/weconnect.png)
+![We Connect](images/weconnect-small.jpg)
 
 ----
 
 ### Workeer
 Arbeitsvermittlung
-![Workeer](images/workeer.png)
+![Workeer](images/workeer-small.jpg)
 
 ---
 
 ## Die Idee
 
-![Die Idee](images/idea.jpg)
+![Die Idee](images/idea-small.jpg)
 <p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
     <a href="https://flic.kr/p/ykP9eF">CC-BY 4.0 Jugend hackt, Foto: Leonard Wolf</a>
 </p>
@@ -68,7 +68,7 @@ Arbeitsvermittlung
 
 Antworten auf die häufigsten Fragen
 
-![FAQ](images/faq.jpg)
+![FAQ](images/faq-small.jpg)
 
 ----
 
@@ -76,7 +76,7 @@ Antworten auf die häufigsten Fragen
 
 Wichtige Punkte
 
-![Karte](images/map.jpg)
+![Karte](images/map-small.jpg)
 Note: wifi-hotspots, wichtige behörden, krankenhäußer, apotheken, etc
 
 ----
@@ -85,7 +85,7 @@ Note: wifi-hotspots, wichtige behörden, krankenhäußer, apotheken, etc
 
 Wichtige Phrasen
 
-![Phrasebook](images/phrasebook.jpg)
+![Phrasebook](images/phrasebook-small.jpg)
 
 ---
 
@@ -114,7 +114,7 @@ Note: Praktika / Jobs, Sprachweiterbildung
 
 ----
 
-![Das Team](images/team.jpg)
+![Das Team](images/team-small.jpg)
 <p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
     <a href="https://flic.kr/p/ykP9eF">CC BY 3.0 Jugend hackt, Foto: Eva-Maria Kühling/Peter Wozniak</a>
 </p>
