@@ -6,14 +6,14 @@
 
 ----
 
-#### Leichter Zugang
+### Leichter Zugang
 
 Note: - viele haben Smartphone für Kontakt in die Heimat, Informationen, Navigation auf Fluchtroute
 - immer mehr Internetcafes in Unterkünften
 
 ----
 
-#### Jeder kann helfen
+### Jeder kann helfen
 
 Note: - Github (jeder kann mitcoden)
 - Community
@@ -21,13 +21,18 @@ Note: - Github (jeder kann mitcoden)
 
 ----
 
-#### WIFI
+### WIFI
+
+![WIFI](images/wifi.png)
+<p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
+    <a href="https://flic.kr/p/ykP9eF">CC-BY 4.0 Google Material Icons</a>
+</p>
 
 Note: Freifunk, Refugee Emancipation
 
 ----
 
-#### Pflege
+### Einfache Pflege
 
 Note: z.B.: 
 - einfaches CMS
@@ -53,14 +58,14 @@ Arbeitsvermittlung
 
 ## Die Idee
 
+----
+
+### Funktionen
+
 ![Die Idee](images/idea-small.jpg)
 <p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
     <a href="https://flic.kr/p/ykP9eF">CC-BY 4.0 Jugend hackt, Foto: Leonard Wolf</a>
 </p>
-
-----
-
-### Funktionen
 
 ----
 
@@ -89,30 +94,34 @@ Wichtige Phrasen
 
 ---
 
-### Etappen nach der Ankuft in Deutschland
+## Etappen nach der Ankuft in Deutschland
 
 ----
 
-#### Ankunft
+### Ankunft
+
+![Arrival](images/arrival-small.jpg)
+<p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
+    <a href="https://flic.kr/p/wTdTeN">CC BY Foto: Dragan Tatic</a>
+</p>
 
 Note: medizinische Erstversorgung, Kontakt zu Familie und Freunden
 
 ----
 
-#### Asylantrag
+### Asylantrag
+
 Note: Bildung, Sprache, Ämter
 
 ----
 
-#### Integration
+### Integration
 
 Note: Praktika / Jobs, Sprachweiterbildung
 
 ---
 
 ## Das Team
-
-----
 
 ![Das Team](images/team-small.jpg)
 <p style="font-style:italic;align:bottom;position:absolute;right:0;bottom:0;font-size:small;">
@@ -123,8 +132,6 @@ Note: Praktika / Jobs, Sprachweiterbildung
 ---
 
 ## Kontakt
-
-----
 
 [germany-says-welcome.de](http://germany-says-welcome.de)
 
