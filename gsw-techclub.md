@@ -341,8 +341,7 @@ Note: ajax = asynchronous JavaScript and XML, we are doing asynchronous JavaScri
 
 ---
 
-
-## Kontakt
+## Contact
 
 [germany-says-welcome.de](http://germany-says-welcome.de)
 
