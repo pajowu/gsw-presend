@@ -341,6 +341,25 @@ Note: ajax = asynchronous JavaScript and XML, we are doing asynchronous JavaScri
 
 ---
 
+# Content Management System
+
+Note: User friendly piece of software, to add and edit content
+
+---
+
+![Screenshot Overview](images/wordpress.jpg) <!-- .element: width="100%" -->
+
+Note: written in PHP, based in MySQL Database just like Backend
+
+---
+
+
+![Screenshot Overview](images/aufbau.png) <!-- .element: width="100%" -->
+
+Note: 
+
+---
+
 ## Contact
 
 [germany-says-welcome.de](http://germany-says-welcome.de)
